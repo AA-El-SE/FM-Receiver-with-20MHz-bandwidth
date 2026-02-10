@@ -12,7 +12,7 @@ The flowgraph receives FM broadcast signals and uses an FFT waterfall display to
 The waterfall plot visualizes the FM spectrum and makes it easier to identify active channels.  
 The receiver includes sliders to adjust the center frequency and the receiver gain if needed.
 
-In this setup, a low-quality antenna was used for low frequencies, which results in weak received signals.
+In this setup, a low-quality antenna was used for low frequencies, which results in weak received signals, but still allows listening to the broadcast and receiving the signals.
 
 ![FM Waterfall FFT](FM_watterfall_FFT_Rx.png)
 
