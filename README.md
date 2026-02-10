@@ -13,4 +13,4 @@ The flowgraph receives FM broadcast signals and uses an FFT waterfall display to
 
 ## Waterfall Display
 The waterfall plot helps visualize the FM spectrum and makes it easier to identify active channels.
-![FM Waterfall FFT](FM_waterfall_FFT_Rx.png)
+![FM Waterfall FFT](FM_watterfall_FFT_Rx.png)
